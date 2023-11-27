@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Graph-to-Text Transformation for Utilizing Text-based Transformer Models
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
