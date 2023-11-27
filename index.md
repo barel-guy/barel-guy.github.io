@@ -6,6 +6,8 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?link=https%3A%2F%2Fgithub.com%2Fbarel-guy%2FGraph-to-Text
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
