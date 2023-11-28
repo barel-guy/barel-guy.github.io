@@ -23,8 +23,14 @@ In this project, we contribute to this expanding research domain by conducting a
 <img src="images/graphs.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Bug Repair Project
+[![](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue
+)](https://github.com/barel-guy/Graph-to-Text)
+
+When managing a software project, it is common using a version management system like git and a bug tracking system like Jira. Then, a bug description is added to the tracker when a bug occurs. Each bug description has several textual properties. When a bug is found in a certain function, it can be solved by various changes. For example, any change can be defined by the lines added or removed, the number of functions changed, Etc.
+In this project, I would like to find the connection between the description of the bug, the faulty function, and the actions taken to fix the bug to build a Machine Learning model that can recommend those actions.
+
+<img src="images/bug_repair.png?raw=true"/>
 
 ---
 
