@@ -1,9 +1,12 @@
 title: Guy Barel # your name (or website title) here
 logo: "/images/self.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Entry-level Data Scientist 
   <br><br>
-  Second description 
+  M.Sc. degree in Data Science with experience in research, development, tests, and evaluate data solutions, including applying Data Science methodology and working with Al/ML/DL methods.
+  Proficient in statistics, algorithms, and deep learning models, utilizing a wide range of technological infrastructures.
+  Experienced in using Jupyter, Git, Python (Pandas, NumPy, SciPy, Scikit-Learn, Keras, TensorFlow, PyTorch), Spark to create robust data models. 
+  Strong teamwork, critical thinking skills, with the ability to communicate scientific data effectively.
   <br><br>
   <a href="https://www.linkedin.com/in/example/">Resume</a> | <a href="www.linkedin.com/in/guy-barel">LinkedIn</a> | <a href="https://github.com/barel-guy">GitHub</a>
 
